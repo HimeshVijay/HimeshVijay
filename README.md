@@ -16,8 +16,14 @@ Building at the intersection of **hardware + software**
 
 ---
 
-### 🎧 Now Playing
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31esucm4ce3safh3lcgpzcyurgyy)](https://open.spotify.com/user/31esucm4ce3safh3lcgpzcyurgyy)
+
+### 🎧 Recently Played on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31esucm4ce3safh3lcgpzcyurgyy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31esucm4ce3safh3lcgpzcyurgyy&count=5&width=500" alt="Spotify recently played" />
+  </a>
+</p>
 
 ---
 
