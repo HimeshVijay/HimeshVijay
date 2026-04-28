@@ -17,7 +17,7 @@ Building at the intersection of **hardware + software**
 ---
 
 ### 🎧 Now Playing
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=NEO)]([https://open.spotify.com/user/NEO](https://open.spotify.com/user/31esucm4ce3safh3lcgpzcyurgyy))
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31esucm4ce3safh3lcgpzcyurgyy)](https://open.spotify.com/user/31esucm4ce3safh3lcgpzcyurgyy)
 
 ---
 
