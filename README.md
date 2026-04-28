@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[https://media.giphy.com/media/Zgiphy.gifVik7pBtu9dNS](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNmYTF0MTkxZ2p6aXdyd3J6NDl1dnFzbWd6ejF2a2c1MzJkaHFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif)/" width="280"/>
+</p>
+
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TFH9KFv2) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himesh-vijay) 
@@ -44,12 +50,6 @@ Building at the intersection of **hardware + software**
 
 ---
 
-### 🌀 Anime Vibe
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-</p>
-
----
 
 [![](https://komarev.com/ghpvc/?username=HimeshVijay&icon=10&color=3)](https://visitcount.itsvg.in)
 
