@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/Zgiphy.gifVik7pBtu9dNS](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNmYTF0MTkxZ2p6aXdyd3J6NDl1dnFzbWd6ejF2a2c1MzJkaHFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif)/" width="280"/>
+  <img src="[url=https://gifs.alphacoders.com/gifs/view/2970][img]https://giffiles.alphacoders.com/297/thumb-2970.jpg[/img][/url]/" width="280"/>
 </p>
 
 ---
