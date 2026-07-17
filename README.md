@@ -4,8 +4,6 @@ Hi, My name is Himesh Vijay   ![default_gif](https://github.com/user-attachments
 Robotics | Computer Vision | SLAM | Navigation
 ----------------------------------------------
 
-I am a masters in Robotics student at Purdue University
-
 * 🌍  I'm based in Delhi NCR
 * ✉️  You can contact me at [himeshvijay89@gmail.com](mailto:himeshvijay89@gmail.com)
 * 🧠  I'm learning VLA
