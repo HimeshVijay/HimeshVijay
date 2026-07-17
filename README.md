@@ -14,49 +14,11 @@ I am a masters in Robotics student at Purdue University
 
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,vscode,raspberrypi,linux,docker,arduino,ros" />
 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
-  </a>
-
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/>
-  </a>
-
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" title="Arduino"/>
-  </a>
-
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="36" height="36" alt="ROS 2" title="ROS 2"/>
-  </a>
-
-  <a href="https://px4.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/px4.svg" width="36" height="36" alt="PX4" title="PX4"/>
-  </a>
-
-  <a href="https://qgroundcontrol.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgroundcontrol.svg" width="36" height="36" alt="QGroundControl" title="QGroundControl"/>
-  </a>
-
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gazebo.svg" width="36" height="36" alt="Gazebo" title="Gazebo"/>
-  </a>
+  <img src="https://img.shields.io/badge/PX4-0057B8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGroundControl-1F78D1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logoColor=white" />
 </p>
 
 
